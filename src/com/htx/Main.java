@@ -3,6 +3,6 @@ package com.htx;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("fuck java");
+        System.out.println("java");
     }
 }
